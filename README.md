@@ -3,15 +3,6 @@ Repository for the paper: Randomly COMMITting: Iterative Convex Optimization for
 
 The repo contains the model code and weights used to produce the results for the network classifier in the paper. 
 
-## How to use
-
-Clone the repo and run the model for predictions by:
-
-`python predict.py --trk_file your_tractogram.trk --mode "commit, sift or intersection"`
-
-
-Change the training configuration in config.py and train the model with 
-`python train.py --config config.py`
 
 
 ## Abstract
